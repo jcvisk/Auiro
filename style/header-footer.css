@@ -1,0 +1,80 @@
+/*--------------------
+        HEADER 
+--------------------*/
+.nav-top{
+    background-color: var(--purple);
+    color: white;
+}
+.dropdown-toggle::after{
+    content: none !important;
+}
+.nav-top .dropdown:hover>.dropdown-menu,
+ul.navbar-nav li.dropdown:hover>.dropdown-menu,
+ul.navbar-nav li.dropup:hover>.dropdown-menu {
+    display: block;
+}
+a.language span:nth-child(1){
+    text-transform: initial;
+    background-color: #ededed;
+    color: black !important;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-right: 2px;
+}
+a.language span:nth-child(2){
+    text-transform: initial;
+    background-color: var(--green);
+    color: white !important;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.social-media{
+    display: block;
+    padding: .5rem 1rem;
+}
+.social-media a{
+    padding: 0 .5rem;
+    color: white;
+}
+.social-media .fa-envelope,
+.social-media  .fa-phone{
+    color: var(--green);
+}
+.social-media a:hover{
+    color: var(--green);
+}
+.navbar-light .navbar-nav .nav-link{
+    padding: 5px 1.5rem 5px 1.5rem;
+}
+.navbar-light .navbar-toggler-icon {
+    background-image: url(../img/toggler-icon.svg);
+}
+.navbar-toggler {
+    border: none !important;
+}
+.img-rps {
+    width: calc(75px + (110 - 75) * ((100vw - 300px) / (1600 - 300)));
+    transition: ease 1s;
+}
+
+
+/*--------------------
+        FOOTER 
+--------------------*/
+.footer{
+    background-color: #2e2e2e;
+}
+.footer .border-top{
+    border-top: 1px solid white !important;
+}
+.footer .nav-link{
+    font-size: calc(8px + (15 - 8) * ((100vw - 300px) / (1600 - 300)));
+    color: white !important;
+    padding: 5px 1.5rem 5px 1.5rem;
+}
+
+.footer .terms,
+.footer .terms small,
+.footer .social .nav-link{
+    color: var(--green) !important;
+}

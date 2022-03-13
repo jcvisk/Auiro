@@ -1,0 +1,43 @@
+@media (min-width: 992px) {
+    .servicios .card{
+        width: 95% !important;
+    }
+
+    .carousel-caption {
+        bottom: 20% !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .servicios .card{
+        width: 90% !important;
+    }
+
+    .carousel-caption {
+        bottom: 30% !important;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .sticky-top .container-fluid{
+        padding-right: 3% !important;
+        padding-left: 3% !important; 
+    }
+    .nav-top .social-media{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    .contact-v1 .shape-bottom{
+        background-image: url(../img/bg-green-sm.svg) !important;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav-top .ctac,
+    .nav-top .social-media{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}

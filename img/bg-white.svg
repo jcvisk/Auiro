@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="212.96907mm"
+   height="33.340206mm"
+   viewBox="0 0 212.96907 33.340206"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="bg-white.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.38885732"
+     inkscape:cx="789.49266"
+     inkscape:cy="609.47805"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="3229"
+     inkscape:window-y="540"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1310">
+      <rect
+         style="fill:#1f1f1f;fill-opacity:0;stroke:#ff1f1f;stroke-width:0.967195;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect1312"
+         width="92.671341"
+         height="66.057327"
+         x="26.895164"
+         y="188.38365" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1314">
+      <rect
+         style="fill:#1f1f1f;fill-opacity:0;stroke:#ff1f1f;stroke-width:0.967195;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect1316"
+         width="92.671341"
+         height="66.057327"
+         x="31.76005"
+         y="102.2951" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.3106761e-7,-3.4020612)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff1f1f;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect2478"
+       width="212.96907"
+       height="33.340206"
+       x="-1.3106761e-07"
+       y="3.4020617" />
+  </g>
+</svg>
