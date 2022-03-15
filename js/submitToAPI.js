@@ -1,6 +1,6 @@
 function submitToAPI(e) {
     e.preventDefault();
-    let URL = "https://l1zzq02chg.execute-api.us-east-1.amazonaws.com/prod/contact-us";
+    let URL = "";
 
     let re_text = /[A-Za-z]{1}[A-Za-z]/;
     var re_email = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,6})?$/;
