@@ -192,6 +192,9 @@ h5{
 .productos .header h5{
     color: black;
 }
+.productos .img-fluid{
+    max-width: 80%;
+}
 
 
 

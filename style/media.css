@@ -16,6 +16,10 @@
     .carousel-caption {
         bottom: 30% !important;
     }
+
+    .productos .img-fluid{
+        max-width: 50% !important;
+    }
 }
 
 @media (max-width: 767.98px) {
