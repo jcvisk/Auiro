@@ -1,6 +1,7 @@
 {
   "en":{
     "menu_lang":"English",
+    "menu_join":"JOIN NOW",
 
     "form_title":"Get in Touch",
     "form_label_name":"Full Name",
@@ -28,6 +29,7 @@
   },
   "es":{
     "menu_lang":"Epañol",
+    "menu_join":"INICIA AHORA",
 
     "form_title":"Póngase en contacto",
     "form_label_name":"Nombre Completo",
@@ -55,6 +57,7 @@
   },
   "pt":{
     "menu_lang":"Português",
+    "menu_join":"REGISTRA-TE",
 
     "form_title":"Contacta-nos",
     "form_label_name":"Nome completo",

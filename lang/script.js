@@ -2,7 +2,7 @@ $(document).ready(function () {
   $.getJSON("lang/lang.json", function (json) {
     //Lenguaje por defecto de la página sessionStorage.setItem("lang", "idioma")"
     if (!localStorage.getItem("lang")) {
-      localStorage.setItem("lang", "en");
+      localStorage.setItem("lang", "es");
     }
 
     let lang = localStorage.getItem("lang");

@@ -58,6 +58,9 @@ h5{
     font-family: "NunitoSans-Bold";
     font-size: calc(15px + (20 - 15) * ((100vw - 300px) / (1600 - 300)));
 }
+a{
+    text-decoration: none !important;
+}
 .txt {
     font-size: calc(15px + (20 - 15) * ((100vw - 300px) / (1600 - 300)));
 }
@@ -192,7 +195,11 @@ h5{
 .productos .header h5{
     color: black;
 }
-.productos .img-fluid{
+.productos .alca{
+    max-width:60%;
+}
+.productos .cafe,
+.productos .epris{
     max-width: 80%;
 }
 

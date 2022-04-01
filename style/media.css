@@ -17,7 +17,11 @@
         bottom: 30% !important;
     }
 
-    .productos .img-fluid{
+    .productos .alca{
+        max-width: 40% !important;
+    }
+    .productos .cafe,
+    .productos .epris{
         max-width: 50% !important;
     }
 }
